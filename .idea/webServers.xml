@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83f7ddf8-6f06-4d9e-9d72-6cdfcb08fe27" name="xinshouyuan" url="https://gitee.com/XinShouYuan">
+        <fileTransfer host="https://gitee.com/XinShouYuan" port="21" rootFolder="/pythonPreject" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
